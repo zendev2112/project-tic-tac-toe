@@ -1,0 +1,29 @@
+{
+  "name": "project-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "eslintConfig": {
+    "extends": [
+      "wesbos"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendev2112/project-tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zendev2112/project-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/zendev2112/project-tic-tac-toe#readme",
+  "dependencies": {
+    "eslint-config-wesbos": "^3.2.3"
+  }
+}
